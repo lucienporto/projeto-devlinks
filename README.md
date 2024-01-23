@@ -18,10 +18,6 @@ Website criado a partir do programa ministrado pela Rocketseat para ensino de te
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src="github/preview.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
